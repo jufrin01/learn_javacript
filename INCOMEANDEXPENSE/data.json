@@ -1,0 +1,26 @@
+{
+   "incomes": [
+      {
+         "name": "Gaji",
+         "total": 1000,
+         "category": "Income"
+      },
+      {
+         "name": "Uang Udah Cair",
+         "total": 4000,
+         "category": "Income"
+      }
+   ],
+   "expenses": [
+      {
+         "name": "Listrik",
+         "total": 10000,
+         "category": "expense"
+      },
+      {
+         "name": "Kasbon",
+         "total": 1000,
+         "category": "Expense"
+      }
+   ]
+}

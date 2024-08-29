@@ -1,0 +1,10 @@
+id,category,price,isMature
+4,quail,10000,n
+5,beef,30000,y
+6,beef,50000,y
+7,fish,20000,n
+8,fish,40000,n
+9,duck,50000,y
+10,duck,100000,y
+11,horse,1000000,n
+12,horse,2000000,n

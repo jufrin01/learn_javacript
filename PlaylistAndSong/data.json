@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "name": "Favorite music",
+      "songs": [
+         {
+            "id": 4,
+            "name": "Tiiii",
+            "duration": 200,
+            "genre": "Rock"
+         },
+         {
+            "id": 5,
+            "name": "Tiiii",
+            "duration": 200,
+            "genre": "Rock"
+         },
+         {
+            "id": 6,
+            "name": "Tiiii",
+            "duration": 200,
+            "genre": "Rock"
+         },
+         {
+            "id": 7,
+            "name": "The Black Box",
+            "duration": 200,
+            "genre": "Rock"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Rock Collection",
+      "songs": [
+         {
+            "id": 1,
+            "name": "The Black Box",
+            "duration": 200,
+            "genre": "Rock"
+         }
+      ]
+   }
+]

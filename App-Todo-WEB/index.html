@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Todo App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class = "container">
+     <div class = "header">
+         <h1>Todo App</h1>
+         <hr />
+     </div>
+        <div class="body_todo">
+            <div class ="input_body">
+                <input type="text" id= "task_form"
+                       placeholder="masukan task..">
+                <button id ="btn_click">Tambahkan</button>
+            </div>
+            <div class = "table_body">
+                <table border="1" cellspacing="0">
+                 <thead>
+                 <tr>
+                     <th>No</th>
+                     <th>Task</th>
+                     <th>Status</th>
+                 </tr>
+                 </thead>
+                    <tbody class id="tBody">
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
